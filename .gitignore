@@ -1,0 +1,21 @@
+# Arduino IDE / builds
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.eep
+*.log
+*.tmp
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local recordings and non-cleared submissions
+local/
+private/
